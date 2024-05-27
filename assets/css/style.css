@@ -1,0 +1,68 @@
+.navbar {
+  background-color: rgb(211, 74, 56);
+  height: 80px;
+}
+
+.navbar-brand img {
+  height: 130px;
+  width: 150px;
+}
+
+.container-fluid {
+  background-color: rgb(214, 69, 50);
+}
+
+.color {
+  color: rgb(214, 69, 50);
+}
+
+.weight {
+  font-weight: 700;
+}
+
+.background-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-color: rgb(15, 15, 15);
+  color: rgb(15, 15, 15);
+}
+
+.down {
+  background-color: rgb(15, 15, 15);
+}
+
+.nav-link {
+  color: rgb(0, 0, 0);
+  transition: color 0.3s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-link:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
+
+.custom-card {
+  width: 100%;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.text-stroked {
+  color: transparent;
+  -webkit-text-stroke: 3px rgb(0, 0, 0);
+  -webkit-text-fill-color: white;
+}
+
+
